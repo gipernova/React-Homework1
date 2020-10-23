@@ -83,8 +83,8 @@ content {
 .verticalLine {
   display: block;
   width: 3px;
-  height: 35px;
-  background: gray;
+  height: 40px;
+  background: rgb(94, 93, 93);
   opacity: 30%;
   margin: auto 0;
 }
